@@ -1,0 +1,1 @@
+50 epochs, 8500 training size, 128 hidden size, 64 embedding size, dropout=0.5
